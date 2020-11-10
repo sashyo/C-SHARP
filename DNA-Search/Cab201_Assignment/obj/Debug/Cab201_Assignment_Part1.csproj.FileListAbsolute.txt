@@ -1,0 +1,6 @@
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\bin\Debug\Cab201_Assignment_Part1.exe.config
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\bin\Debug\Cab201_Assignment_Part1.exe
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\bin\Debug\Cab201_Assignment_Part1.pdb
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\obj\Debug\Cab201_Assignment_Part1.csprojResolveAssemblyReference.cache
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\obj\Debug\Cab201_Assignment_Part1.exe
+C:\Users\sasha.le\Desktop\cab201\Cab201_Assignment_Part1\Cab201_Assignment_Part1\obj\Debug\Cab201_Assignment_Part1.pdb
